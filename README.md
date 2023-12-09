@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Funny&Cheerful😄
 - ⚡ Fun fact: Afraid of driving😰
 
-<div align="center"> <img src="https://metrics.lecoq.io/insights?user=jiaowoguanren0615?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
 <div align="center"> 
   <img height="224px" src="https://github-readme-stats.vercel.app/api?username=jiaowoguanren0615&hide_title=true&hide_border=true&show_icons=trueline_height=32&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <div align="center"> 
   <img height="224px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaowoguanren0615&hide_title=true&hide_border=true&layout=compact&langs_count=12&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jiaowoguanren0615" /> </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
 
