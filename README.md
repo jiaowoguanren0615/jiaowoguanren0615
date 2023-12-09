@@ -2,6 +2,7 @@
 
 <!--
 **jiaowoguanren0615/jiaowoguanren0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
 -->
 
 Here are some ideas to get you started:
@@ -14,13 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Funny&Cheerful😄
 - ⚡ Fun fact: Afraid of driving😰
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
-</div>
 
-<p align="center">
+<div align="center">
   <img height="224px" src="https://streak-stats.demolab.com/?user=jiaowoguanren0615" alt="GitHub Streak">
-</p>
+</div>
 
 <div align="center"> 
   <img height="224px" src="https://github-readme-stats.vercel.app/api?username=jiaowoguanren0615&hide_title=true&hide_border=true&show_icons=trueline_height=32&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
