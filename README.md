@@ -7,6 +7,7 @@
 
 <span style="font-family: 'Comic Sans MS', cursive;">
   Here are some ideas to get you started:
+  
   - 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
   - 🌱 I’m currently learning machine learning and deep learning.
   - 👯 I’m looking to collaborate on communicating knowledge about AI, including computer vision, natural language processing, etc.
