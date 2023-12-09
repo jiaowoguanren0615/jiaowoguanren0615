@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning machine learning and deep learning.
 - 👯 I’m looking to collaborate on communicating knowledge about AI, including computer vision, natural language processing, etc.
 - 💬 Ask me about if you want to discuss knowledge about AI with me or if you have any questions about my github warehouse code.
-- 📫 How to reach me: [QQ mail](1105374939@qq.com) [Gmail](huangshuqi0615@gmail.com)
+- 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com)
 - 😄 Pronouns: Funny&Cheerful😄
 - ⚡ Fun fact: Afraid of driving😰
 
