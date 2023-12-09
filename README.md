@@ -6,15 +6,15 @@
 -->
 
 <span style="font-family: Arial, sans-serif;">
-Here are some ideas to get you started:
-
-- 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
-- 🌱 I’m currently learning machine learning and deep learning.
-- 👯 I’m looking to collaborate on communicating knowledge about AI, including computer vision, natural language processing, etc.
-- 💬 Ask me about if you want to discuss knowledge about AI with me or if you have any questions about my github warehouse code.
-- 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com)
-- 😄 Pronouns: Funny&Cheerful😄
-- ⚡ Fun fact: Afraid of driving😰
+  Here are some ideas to get you started:
+  
+  - 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
+  - 🌱 I’m currently learning machine learning and deep learning.
+  - 👯 I’m looking to collaborate on communicating knowledge about AI, including computer vision, natural language processing, etc.
+  - 💬 Ask me about if you want to discuss knowledge about AI with me or if you have any questions about my github warehouse code.
+  - 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com)
+  - 😄 Pronouns: Funny&Cheerful😄
+  - ⚡ Fun fact: Afraid of driving😰
 </span>
 
 <div align="center">
