@@ -22,4 +22,6 @@ Here are some ideas to get you started:
   <img height="224px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaowoguanren0615&hide_title=true&hide_border=true&layout=compact&langs_count=12&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
+
 [![jiaowoguanren0615's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiaowoguanren0615&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
