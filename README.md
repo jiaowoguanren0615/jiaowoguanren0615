@@ -5,6 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
 -->
 
+<span style="font-family: Arial, sans-serif;">
 Here are some ideas to get you started:
 
 - 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com)
 - 😄 Pronouns: Funny&Cheerful😄
 - ⚡ Fun fact: Afraid of driving😰
-
+</span>
 
 <div align="center">
   <img height="224px" src="https://streak-stats.demolab.com/?user=jiaowoguanren0615" alt="GitHub Streak">
