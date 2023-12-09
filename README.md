@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height="224px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaowoguanren0615&hide_title=true&hide_border=true&layout=compact&langs_count=12&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
-<div align="center"> <img height="196px" src="https://github-profile-trophy.vercel.app/?username=jiaowoguanren0615" /> </div>
+<div align="center"> <img height="224px" src="https://github-profile-trophy.vercel.app/?username=jiaowoguanren0615" /> </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
 
