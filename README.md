@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
 -->
 
-<span style="font-family: Arial, sans-serif;">
+<span style="font-family: 'Comic Sans MS', cursive;">
   Here are some ideas to get you started:
   
   - 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
