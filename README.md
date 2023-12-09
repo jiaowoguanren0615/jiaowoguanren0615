@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![jiaowoguanren0615's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaowoguanren0615&show_icons=true&theme=radical)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaowoguanren0615&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaowoguanren0615&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+</div>
