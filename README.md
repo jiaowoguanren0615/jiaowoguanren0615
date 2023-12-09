@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 </div>
 
 [![jiaowoguanren0615's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiaowoguanren0615&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jiaowoguanren0615/github-readme-activity-graph&type=Timeline)](https://star-history.com/#jiaowoguanren0615/github-readme-activity-graph&Timeline)
