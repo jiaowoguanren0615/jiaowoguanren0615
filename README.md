@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about if you want to discuss knowledge about AI with me or if you have any questions about my github warehouse code.
 - 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com) [Kaggle](https://www.kaggle.com/jiaowoguanren)
 - 😄 Pronouns: Funny&Cheerful😄
+- 💪 Life motto: Forget the past, it will only obscure the future.
 - ⚡ Fun fact: Afraid of driving😰
 
 
