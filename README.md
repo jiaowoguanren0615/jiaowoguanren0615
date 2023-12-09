@@ -2,18 +2,18 @@
 
 <!--
 **jiaowoguanren0615/jiaowoguanren0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 I’m looking for help with ...
 -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
 - 🌱 I’m currently learning machine learning and deep learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 How to reach me: [QQ mail](1105374939@qq.com) [Gmail](huangshuqi0615@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on communicating knowledge about AI, including computer vision, natural language processing, etc.
+- 💬 Ask me about if you want to discuss knowledge about AI with me or if you have any questions about my github warehouse code.
+- 📫 How to reach me: [QQ mail](1105374939@qq.com) [Gmail](huangshuqi0615@gmail.com)
+- 😄 Pronouns: Funny&Cheerful😄
+- ⚡ Fun fact: Afraid of driving😰
 
 <div align="center"> 
   <img height="224px" src="https://github-readme-stats.vercel.app/api?username=jiaowoguanren0615&hide_title=true&hide_border=true&show_icons=trueline_height=32&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
