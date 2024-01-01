@@ -9,11 +9,11 @@
 
 
 Here are some ideas to get you started:
-
+- 👋 Hi, I’m Shuqi Huang.
 - 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
 - 🌱 I’m currently learning machine learning and deep learning.
 - 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com) [Kaggle](https://www.kaggle.com/jiaowoguanren)
-- 😄 Pronouns: Funny&Cheerful😄
+- 😄 Pronouns: Funny & Cheerful😄
 - 💪 Life motto: Forget the past, it will only obscure the future.
 - ⚡ Fun fact: Afraid of driving😰
 
