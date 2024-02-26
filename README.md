@@ -5,12 +5,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jiaowoguanren0615)](https://git.io/streak-stats)
 - 💬 Ask me about if you want to discuss knowledge about AI with me or if you have any questions about my github warehouse code.
 - 👯 I’m looking to collaborate on communicating knowledge about AI, including computer vision, natural language processing, etc.
+- 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
 -->
 
 
 Here are some ideas to get you started:
 - 👋 Hi, I’m Shuqi Huang.
-- 🔭 I will be joining the Department of Artificial Intelligence(AI) as a master student at Monash University.
 - 🌱 My current interests include __Computer Vision__ and __Natural Language Processing__.
 - 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com) [Kaggle](https://www.kaggle.com/jiaowoguanren)
 - 😄 Pronouns: Funny & Cheerful😄
