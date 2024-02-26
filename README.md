@@ -10,7 +10,7 @@
 
 
 Here are some ideas to get you started:
-- 👋 Hi, I’m Shuqi Huang.
+- 👋 Hi, I’m Shuqi Huang. My hometown city is Wuhu, Anhui province, China.
 - 🌱 My current interests include __Computer Vision__ and __Natural Language Processing__.
 - 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com) [Kaggle](https://www.kaggle.com/jiaowoguanren)
 - 😄 Pronouns: Funny & Cheerful😄
