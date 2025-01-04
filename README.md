@@ -12,7 +12,9 @@
 Here are some ideas to get you started:
 - 👋 Hi, I’m Shuqi Huang. My hometown city is Wuhu, Anhui province, China.
 - 🌱 My current interests include __Computer Vision__ and __Natural Language Processing__.
-- 📫 How to reach me: [QQ mail](1105374939@qq.com) [Google mail](huangshuqi0615@gmail.com) [Kaggle](https://www.kaggle.com/jiaowoguanren)
+- 📫 How to reach me:
+                      - QQ mail: 1105374939@qq.com
+                      - Google mail: huangshuqi0615@gmail.com
 - 😄 Pronouns: Funny & Cheerful😄
 - 💪 Life motto: Forget the past, it will only obscure the future.
 - ⚡ Fun fact: Afraid of driving😰
